@@ -1,0 +1,19 @@
+body{
+    font-family: Verdana
+}
+
+#titulazo{
+    font-family:'Gill Sans';   
+}
+#formfont{
+    background-color: #051B54 ;
+}
+.ccolor{
+    background-color: #62DAD3;
+}
+.btncolor{
+    background-color: #FFFFFF33;    
+}
+.btn, .form-select{
+    color:#1d5ab6;
+}
